@@ -9,7 +9,7 @@ entries:
     name: first-app
     type: application
     urls:
-    # - https://tejas0207.github.io/simplehelmchart/first-app-0.1.0.tgz
-    - first-app-0.1.0.tgz
+     - https://tejas0207.github.io/simplehelmchart/first-app-0.1.0.tgz
+    #- first-app-0.1.0.tgz
     version: 0.1.0
 generated: "2023-07-07T11:38:24.113124+05:30"
